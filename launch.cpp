@@ -29,7 +29,7 @@ int main(){
         i++;
         q.pop();
     }
-    // ij
+    
     for (int i = 0; i < k; i++)
     {
         q.push(s.top());
